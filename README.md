@@ -1,2 +1,1 @@
-# GIT-Practice
-For practice
+Ashitosh Dashrath Vidhate
